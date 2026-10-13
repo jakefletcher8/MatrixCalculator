@@ -1,0 +1,12 @@
+﻿  Matrix.cpp
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(284,36): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(284,36): warning C4244:         with
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(284,36): warning C4244:         [
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(284,36): warning C4244:             _Ty=float
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(284,36): warning C4244:         ]
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(322,32): warning C4244: '=': conversion from 'int' to '_Ty', possible loss of data
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(322,32): warning C4244:         with
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(322,32): warning C4244:         [
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(322,32): warning C4244:             _Ty=float
+C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\Matrix.cpp(322,32): warning C4244:         ]
+  MatrixCalculator.vcxproj -> C:\Users\jakef\Desktop\JF\MatrixCalculator\MatrixCalculator\x64\Debug\MatrixCalculator.exe
